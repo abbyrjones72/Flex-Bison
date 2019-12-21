@@ -1,0 +1,3 @@
+this is a string on one line
+this is another string on the second
+this is the third line:
